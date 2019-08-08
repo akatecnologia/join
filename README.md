@@ -7,3 +7,4 @@ O objetivo desse desafio é avaliar a sua desenvoltura e domínio nas ferramenta
 ### Problema Proposto
 Criação de um sistema capaz de buscar as informações de um usuário do Github. Para isso, você usará a API pública do github [Github API]( https://developer.github.com/v3/ ) para retornar os dados do usuário pesquisado.
 
+![alt tela 01](https://github.com/akatecnologia/join/blob/master/images/tela01.png)
