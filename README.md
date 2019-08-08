@@ -28,6 +28,6 @@ Clicando em “968 estrelas” você será levado para uma nova tela, onde será
 
 Clicando em “528 repos públicos” você será levado para uma nova tela, onde será possível ver mais detalhes dos repositórios públicos do usuário. (sugestão de tela 05)
 
-```
+
 Formas de envio: Você pode hospedar seu código no github ou em qualquer outra plataforma e nos enviar o link através do email  mecontrata@akatecnologia.com .
-```
+
