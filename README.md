@@ -1,4 +1,4 @@
-# Venha para a Aka Tecnologia
+# Venha para a AKA Tecnologia
 AKA Tecnologia é uma fábrica de software que atua em diversas áreas da industria. Estamos em ampla expansão e precisamos de você para alcançar um futuro ainda mais brilhante.
 
 ## Desafio
